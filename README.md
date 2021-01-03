@@ -1,6 +1,6 @@
 # Safari Sandbox
 
-A python program that parses Safari's `LastSession.db` and creates a stripped-down sqlite database out of it for querying.
+A python program that parses Safari's `LastSession.plist` and creates a stripped-down sqlite database out of it for querying.
  
 
 ## Hacking
